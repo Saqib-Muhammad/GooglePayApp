@@ -9,3 +9,6 @@ In this app, we build a checkout screen in your Android app and equip it with Go
 Google Pay API gives users the opportunity to pay everywhere, using the payment information stored in their Google Accounts. In this app, we make use of Google Pay's client library for Android to improve the checkout experience of a simplified sample mobile application, by creating a faster, more convenient, and safer experience, which in turn leads to more conversions and happier customers.
 
 Auto T-Shirt Shop is an innovative store that leverages the latest advances in artificial intelligence and using information like style preferences, weather, time of the year, and fashion trends, suggests you the most appropriate item to purchase.
+
+# ScreenShot
+![device-2021-10-20-220412](https://user-images.githubusercontent.com/42799047/138139248-bb59c39b-9062-43fe-adf4-9cbcdbb87418.png)
